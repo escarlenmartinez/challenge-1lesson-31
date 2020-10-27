@@ -1,0 +1,12 @@
+light.set_brightness(10)
+light.set_pixel_color(0, light.rgb(255, 152, 51))
+light.set_pixel_color(1, light.rgb(255, 255, 51))
+light.set_pixel_color(2, light.rgb(0, 255, 128))
+light.set_pixel_color(3, light.rgb(0, 165, 255))
+light.set_pixel_color(4, light.rgb(0, 121, 255))
+light.set_pixel_color(5, light.rgb(0, 75, 255))
+light.set_pixel_color(6, light.rgb(0, 0, 255))
+light.set_pixel_color(7, light.rgb(178, 102, 255))
+light.set_pixel_color(8, light.rgb(255, 0, 255))
+light.set_pixel_color(9, light.rgb(255, 0, 0))
+ 
